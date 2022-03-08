@@ -15,17 +15,17 @@
 //		return false;
 //	}
 //	for (int i = 1; i < row; i++) {
-//		if (nums[i][col] == 1) {
+//		if (nums[i][col] == 1) {//列
 //			return false;
 //		}
 //	}
 //	for (int i = row - 1, j = col - 1; i >= 1 && j >= 1; i--, j--) {
-//		if (nums[i][j] == 1) {
+//		if (nums[i][j] == 1) {//左对角线
 //			return false;
 //		}
 //	}
 //	for (int i = row - 1, j = col + 1; i >= 1 && j <= n; i--, j++) {
-//		if (nums[i][j] == 1) {
+//		if (nums[i][j] == 1) {//右对角线
 //			return false;
 //		}
 //	}

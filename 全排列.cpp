@@ -22,7 +22,7 @@
 //}
 //
 //int main() {
-//    vector<vector<int> > nums = combine(4, 2);
+//    vector<vector<int> > nums = combine(10, 5);
 //    for (int i = 0; i < nums.size(); i++) {
 //        printf("%d %d\n", nums[i][0], nums[i][1]);
 //    }
