@@ -105,6 +105,9 @@
     <ClCompile Include="GCD.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="线性表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="最短路径bellman%28单源有负权，推荐spfa）.cpp">

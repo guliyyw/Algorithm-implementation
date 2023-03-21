@@ -153,6 +153,7 @@
     <ClCompile Include="最小生成树prim（边多）.cpp" />
     <ClCompile Include="未完成拓扑排序（边，有向无环，可以判断是否有环）.cpp" />
     <ClCompile Include="源.cpp" />
+    <ClCompile Include="线性表.cpp" />
     <ClCompile Include="表达式计算.cpp" />
     <ClCompile Include="并查集.cpp" />
     <ClCompile Include="最大可能整数.cpp" />
