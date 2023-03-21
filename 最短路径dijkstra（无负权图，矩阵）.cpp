@@ -3,11 +3,11 @@
 //#include "algorithm"
 //using namespace std;
 //
-//const int MAXV = 1010;
+//const int MAXV = 510;
 //const int INF = 1000000000;
-//n顶点数，m边数，s起点，t终点
-//G距离矩阵，cost花费矩阵
-//d[]到点最短距离
+////n顶点数，m边数，s起点，t终点
+////G距离矩阵，cost花费矩阵
+////d[]到点最短距离
 //
 //int n, m, s, t, G[MAXV][MAXV],cost[MAXV][MAXV];
 //int d[MAXV], c[MAXV], pre[MAXV];
@@ -32,6 +32,7 @@
 //			if (!vis[v] && G[u][v] != INF) {
 //				if (d[u] + G[u][v] < d[v]) {
 //					d[v] = d[u] + G[u][v];//到达v点的最小距离
+//					pre[v] = u;
 //				}
 //				else if (d[u] + G[u][v] == d[v] && c[v] > c[u] + cost[u][v]) {
 //					c[v] = c[u] + cost[u][v];
