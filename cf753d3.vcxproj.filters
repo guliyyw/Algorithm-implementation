@@ -42,9 +42,6 @@
     <ClCompile Include="最短路径spfa（单源，有负权图）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="改.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="差分.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -100,9 +97,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="摆动序列.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="最大公约数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="排序.cpp">

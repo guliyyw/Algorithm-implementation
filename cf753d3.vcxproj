@@ -149,8 +149,6 @@
     <ClCompile Include="拓补排序（可以判断有无环，边）.cpp" />
     <ClCompile Include="排序.cpp" />
     <ClCompile Include="摆动序列.cpp" />
-    <ClCompile Include="改.cpp" />
-    <ClCompile Include="最大公约数.cpp" />
     <ClCompile Include="最小生成树kruskal并查集（边少）.cpp" />
     <ClCompile Include="最小生成树prim（边多）.cpp" />
     <ClCompile Include="未完成拓扑排序（边，有向无环，可以判断是否有环）.cpp" />
